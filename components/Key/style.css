@@ -1,0 +1,11 @@
+div.key {
+    margin: 1rem 0;
+}
+
+div.key label {
+    font-weight: 500;
+}
+
+div.key div {
+    font-weight: 300;
+}

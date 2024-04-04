@@ -1,0 +1,17 @@
+div.person {
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50%;
+    min-width: 250px;
+    max-width: 600px;
+}
+
+div.success {
+    border: 1px solid #60df0b;
+    border-left: 10px solid #60df0b;
+}
+
+div.error {
+    border: 1px solid #f70101;
+    border-left: 10px solid #f10303;
+}
